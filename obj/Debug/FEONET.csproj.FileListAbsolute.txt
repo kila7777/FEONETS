@@ -1,0 +1,14 @@
+D:\Новая папка (2)\FEONET\FEONET\bin\Debug\FEONET.exe.config
+D:\Новая папка (2)\FEONET\FEONET\bin\Debug\FEONET.exe
+D:\Новая папка (2)\FEONET\FEONET\bin\Debug\FEONET.pdb
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.csproj.AssemblyReference.cache
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Form1.resources
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Form2.resources
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Properties.Resources.resources
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.csproj.GenerateResource.cache
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.exe
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.pdb
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Form3.resources
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Form4.resources
+D:\Новая папка (2)\FEONET\FEONET\obj\Debug\FEONET.Form5.resources
